@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "611864699169",
+    "firebase_url": "https://vinaworldwide-e987f-default-rtdb.firebaseio.com",
+    "project_id": "vinaworldwide-e987f",
+    "storage_bucket": "vinaworldwide-e987f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611864699169:android:3c7aafa502bd328cc41e60",
+        "android_client_info": {
+          "package_name": "com.veenaworldwide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvjC0pjSwbG8oHps1bNI6HwlaFzj7TDKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
